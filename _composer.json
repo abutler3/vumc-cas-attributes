@@ -1,7 +1,7 @@
 {
   "name": "abutler3/vumc-cas-attributes",
   "description": "a token replacement for user and profile fields when a CAS user logs in",
-  "type": "drupal-module",
+  "type": "drupal-custom-module",
   "homepage": "https://www.drupal.org/project/cas_attributes",
   "authors": [
     {
